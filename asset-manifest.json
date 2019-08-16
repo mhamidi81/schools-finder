@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/schools-finder/static/css/main.c94aaaab.chunk.css",
+    "main.js": "/schools-finder/static/js/main.58f39c40.chunk.js",
+    "main.js.map": "/schools-finder/static/js/main.58f39c40.chunk.js.map",
+    "runtime~main.js": "/schools-finder/static/js/runtime~main.bfd0acdd.js",
+    "runtime~main.js.map": "/schools-finder/static/js/runtime~main.bfd0acdd.js.map",
+    "static/js/2.72290c37.chunk.js": "/schools-finder/static/js/2.72290c37.chunk.js",
+    "static/js/2.72290c37.chunk.js.map": "/schools-finder/static/js/2.72290c37.chunk.js.map",
+    "index.html": "/schools-finder/index.html",
+    "precache-manifest.6f118619f8ded88d6fece53b93f93a32.js": "/schools-finder/precache-manifest.6f118619f8ded88d6fece53b93f93a32.js",
+    "service-worker.js": "/schools-finder/service-worker.js",
+    "static/css/main.c94aaaab.chunk.css.map": "/schools-finder/static/css/main.c94aaaab.chunk.css.map"
+  }
+}
